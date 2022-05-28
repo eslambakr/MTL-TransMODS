@@ -56,6 +56,9 @@ discriminating objects can be regarded as detection queries.
 
 We encode motion cues by utilizing two mechanisms; through the Optical Flow (OF) using FlowNet 2.0, and
 using multiple streams of T time stamps.
+<p align="center">
+  <img src="Figures/T-DETR.png" width="75%"/>
+</p>
 
 ## Prerequisites
 * Python >= 3.5
